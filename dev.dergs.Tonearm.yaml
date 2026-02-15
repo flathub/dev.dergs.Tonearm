@@ -35,4 +35,4 @@ modules:
       - go.mod.yml
       - type: git
         url: https://codeberg.org/dergs/Tonearm.git
-        tag: v1.3.0
+        tag: v1.3.1
