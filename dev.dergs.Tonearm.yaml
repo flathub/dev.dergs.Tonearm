@@ -1,6 +1,6 @@
 app-id: dev.dergs.Tonearm
 runtime: org.gnome.Platform
-runtime-version: "49"
+runtime-version: "50"
 sdk: org.gnome.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.golang
@@ -35,4 +35,4 @@ modules:
       - go.mod.yml
       - type: git
         url: https://codeberg.org/dergs/Tonearm.git
-        tag: v1.4.2
+        tag: v1.5.0
